@@ -26,3 +26,19 @@ According to the CDC, heart disease is one of the leading causes of death for pe
 - AgeCategory : Fourteen-level age category
 
 (source : kaggle)
+
+
+# In this project
+
+- We examine our dataset (null values, data types, outliers, correlation heatmap, target distrbution) 
+- We clean our dataset (data type changes, get dummies)
+- We examine the feature importances ( Feature Importances, Shap, plot partial dependence, Select K Best (chi2), MRMR)
+- We train some models and compare the metrics
+- We improve our models with hyperparameter tuning to optimize the performance
+
+## Let's have a taste 
+
+Here are some insights of the feature selection process 
+
+<img width="1011" alt="Screenshot 2023-02-10 at 10 35 29 PM" src="https://user-images.githubusercontent.com/125039071/218192569-73ad3dcb-67da-4e24-be28-9c5385d36b50.png">
+
