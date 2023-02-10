@@ -32,7 +32,7 @@ According to the CDC, heart disease is one of the leading causes of death for pe
 
 - We examine our dataset (null values, data types, outliers, correlation heatmap, target distrbution) 
 - We clean our dataset (data type changes, get dummies)
-- We examine the feature importances ( Feature Importances, Shap, plot partial dependence, Select K Best (chi2), MRMR)
+- We examine the feature selection ( Feature Importances, Shap, plot partial dependence, Select K Best (chi2), MRMR)
 - We train some models and compare the metrics
 - We improve our models with hyperparameter tuning to optimize the performance
 
