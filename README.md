@@ -40,5 +40,9 @@ According to the CDC, heart disease is one of the leading causes of death for pe
 
 Here are some insights of the feature selection process 
 
+<img width="971" alt="Screenshot 2023-02-10 at 10 34 55 PM" src="https://user-images.githubusercontent.com/125039071/218192702-4d266ea5-c1e1-473e-9769-85f2d525c9b2.png">
+
+
+
 <img width="1011" alt="Screenshot 2023-02-10 at 10 35 29 PM" src="https://user-images.githubusercontent.com/125039071/218192569-73ad3dcb-67da-4e24-be28-9c5385d36b50.png">
 
