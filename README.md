@@ -46,10 +46,12 @@ These are top 10 features according to feature importances for Random Forest Cla
 It seems like the most important feature is BMI with AgeCategory and SleepTime following. Physical health and Mental health are also in the top 5 features which are important for heart disease. 
 
 
+###### Now let's see our models perfomance.
 
-<img width="1011" alt="Screenshot 2023-02-10 at 10 35 29 PM" src="https://user-images.githubusercontent.com/125039071/218192569-73ad3dcb-67da-4e24-be28-9c5385d36b50.png">
+<img width="893" alt="Screenshot 2023-02-10 at 11 04 37 PM" src="https://user-images.githubusercontent.com/125039071/218197281-73d49a33-293e-48d4-9ed0-f324fac77ef8.png">
 
-How do these features affect the target value (heart disease)? We clearly see that how old are you infuences to a great extent the occurrence of heart disease.
+The results above came from default-parameter performances. What is happening when we use hyperparameter tuning?
 
-#### If you are intrested to see more about feature selection and the prediction model choice check this project!
+
+#### If you are intrested to see more about feature selection and the predictive-model choice check this project!
 
